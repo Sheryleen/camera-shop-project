@@ -1,0 +1,28 @@
+.cart {
+  background-color: orange;
+  min-height: 500px;
+  
+}
+
+.fontColor{
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+
+.sale{
+  color: red;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.Trash{
+   margin-top: 110px ;
+   margin-left: 65px;
+}
+
+.Row{
+  display: flex;
+ 
+}
+
